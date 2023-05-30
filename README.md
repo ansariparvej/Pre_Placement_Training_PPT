@@ -1,2 +1,2 @@
-# Pre_Placement_Training_-PPT-
-Special Interview Program @ iNeuron
+# Pre_Placement_Training_PPT
+Special Interview Program PPT @ iNeuron
